@@ -7,6 +7,12 @@ Proyek ini adalah contoh sederhana aplikasi pengolahan data wilayah menggunakan 
 Aplikasi ini menerima input berupa nama provinsi dan kode pos, dan memberikan output berupa informasi detail dari kode pos tersebut seperti nama provinsi, kota/kabupaten, dan kecamatan.
 
 Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overloading, Overriding, Seleksi, Perulangan, IO Sederhana, Array, dan Error Handling.
+## Penjelasan Kode
+
+Berikut adalah bagian kode yang relevan dengan konsep OOP yang dijelaskan:
+
+1. **Class** adalah template atau blueprint dari object. Pada kode ini, `Wilayah`, `WilayahLengkap`, dan `WilayahBeraksi` adalah contoh dari class.
+
 ```markdown
 
 ## Penjelasan Kode
@@ -199,4 +205,4 @@ try {
 Nama: Adrian Akhmad Firdaus
 
 NPM: 2210010491
-```
+
