@@ -172,7 +172,6 @@ Wilayah[] wilayah = new WilayahLengkap[2];
 
 ```java
 try {
-    // code that might throw an exception
 } catch (StringIndexOutOfBoundsException e) {
     System.out.println("Kesalahan format kode: " + e.getMessage());
 } catch (NumberFormatException e) {
