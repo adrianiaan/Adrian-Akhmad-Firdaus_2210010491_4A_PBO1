@@ -1,4 +1,3 @@
-```
 ## Proyek Akhir Pemrograman Berbasis Objek 1
 
 Proyek ini adalah contoh sederhana aplikasi pengolahan data wilayah menggunakan Java sebagai tugas akhir dari mata kuliah pemrograman berbasis objek 1.
@@ -8,6 +7,7 @@ Proyek ini adalah contoh sederhana aplikasi pengolahan data wilayah menggunakan 
 Aplikasi ini menerima input berupa nama provinsi dan kode pos, dan memberikan output berupa informasi detail dari kode pos tersebut seperti nama provinsi, kota/kabupaten, dan kecamatan.
 
 Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overloading, Overriding, Seleksi, Perulangan, IO Sederhana, Array, dan Error Handling.
+```markdown
 
 ## Penjelasan Kode
 
