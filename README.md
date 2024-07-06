@@ -15,12 +15,6 @@ Berikut adalah bagian kode yang relevan dengan konsep OOP yang dijelaskan:
 
 ```markdown
 
-## Penjelasan Kode
-
-Berikut adalah bagian kode yang relevan dengan konsep OOP yang dijelaskan:
-
-1. **Class** adalah template atau blueprint dari object. Pada kode ini, `Wilayah`, `WilayahLengkap`, dan `WilayahBeraksi` adalah contoh dari class.
-
 ```java
 public class Wilayah {
     ...
